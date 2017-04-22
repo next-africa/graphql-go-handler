@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/graphql-go/graphql"
+	"github.com/next-africa/graphql-go"
 
 	"golang.org/x/net/context"
 )
